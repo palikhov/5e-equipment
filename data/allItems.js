@@ -84,7 +84,7 @@ var oTypes = {
         "title": "ammunition"
       },
       "ru": {
-        "title": "боеприпас",
+        "title": "аммуниция",
         "gender": "they"
       }
     },
@@ -96,7 +96,7 @@ var oTypes = {
         "title": "consumables"
       },
       "ru": {
-        "title": "расходник",
+        "title": "расходуемые",
         "gender": "he"
       }
     },
@@ -156,8 +156,8 @@ var oTypes = {
         "title": "arcane focus"
       },
       "ru": {
-        "title": "фокусирвка магическая",
-        "gender": "she"
+        "title": "заклинательный фокус",
+        "gender": "he"
       }
     },
 	"img": "type_focus.jpg"
@@ -168,8 +168,8 @@ var oTypes = {
         "title": "druidic focus"
       },
       "ru": {
-        "title": "фокусировка друидская",
-        "gender": "she"
+        "title": "друидический фокус",
+        "gender": "he"
       }
     },
 	"img": "type_focus.jpg"
@@ -177,7 +177,7 @@ var oTypes = {
 	 "holly simbol": {
     "text": {
       "en": {
-        "title": "holly simbol"
+        "title": "holy simbol"
       },
       "ru": {
         "title": "святой символ",
@@ -299,10 +299,10 @@ var oTypeAdditions = {
         "title": "melee"
       },
       "ru": {
-        "he": "рукопашный",
-        "she": "рукопашная",
-        "it": "рукопашное",
-        "title": "рукопашное"
+        "he": "ближнего боя",
+        "she": "ближнего боя",
+        "it": "ближнего боя",
+        "title": "ближнего боя"
       }
     }
   },
@@ -517,10 +517,10 @@ var oWeaponProps = {
         "title": "ammunition"
       },
       "ru": {
-        "he": "боеприпас",
-        "she": "боеприпас",
-        "it": "боеприпас",
-        "title": "боеприпас"
+        "he": "аммуниция",
+        "she": "аммуниция",
+        "it": "аммуниция",
+        "title": "аммуниция"
       }
     }
   },	
@@ -570,7 +570,7 @@ var allItems = [
 			"weight": "8"
 		},
 		"ru": {
-			"name": "Стеганная броня",
+			"name": "Стеганный доспех",
 			"text": "",
 		}
 	}, {
@@ -587,7 +587,7 @@ var allItems = [
 			"weight": "10"
 		},
 		"ru": {
-			"name": "Кожанная броня",
+			"name": "Кожаный доспех",
 			"text": "",
 		}
 	}, {
@@ -604,7 +604,7 @@ var allItems = [
 			"weight": "13"
 		},
 		"ru": {
-			"name": "Клепанная кожанная броня",
+			"name": "Клепаный кожаный доспех",
 			"text": "",
 		}
 	}, {
@@ -621,7 +621,7 @@ var allItems = [
 			"weight": "12"
 		},
 		"ru": {
-			"name": "Броня из шкур",
+			"name": "Доспех из шкур",
 			"text": "",
 		}
 	}, {
@@ -656,7 +656,7 @@ var allItems = [
 			"weight": "45"
 		},
 		"ru": {
-			"name": "Чешуйчатая броня",
+			"name": "Чешуйчатый  доспех",
 			"text": "",
 		}
 	}, {
@@ -709,7 +709,7 @@ var allItems = [
 			"weight": "40"
 		},
 		"ru": {
-			"name": "Колечная броня",
+			"name": "Колечный доспех",
 			"text": "",
 		}
 	}, {
@@ -727,7 +727,7 @@ var allItems = [
 			"weight": "55"
 		},
 		"ru": {
-			"name": "Кольчужная броня",
+			"name": "Кольчуга",
 			"text": "",
 		}
 	}, {
@@ -745,7 +745,7 @@ var allItems = [
 			"weight": "60"
 		},
 		"ru": {
-			"name": "Наборная броня",
+			"name": "Пластинчатый доспех",
 			"text": "",
 		}
 	}, {
